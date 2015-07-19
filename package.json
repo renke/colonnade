@@ -1,6 +1,6 @@
 {
   "name": "colonnade",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A flexible columns component for React",
   "main": "index.js",
   "scripts": {
