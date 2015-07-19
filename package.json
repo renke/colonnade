@@ -18,7 +18,7 @@
     "chance": "^0.7.6",
     "lodash.times": "^3.0.3",
     "node-uuid": "^1.4.3",
-    "perpetually": "^0.0.2",
+    "perpetually": "",
     "webpack": "^1.9.11"
   },
   "devDependencies": {
