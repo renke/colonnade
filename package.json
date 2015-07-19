@@ -1,0 +1,31 @@
+{
+  "name": "colonnade",
+  "version": "0.0.0",
+  "description": "A flexible columns component for React",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "babel --stage 1 lib/columns.js --out-file index.js && webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renke Grunwald <renke@renke.org> (http://renke.org)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renke/colonnade.git"
+  },
+  "dependencies": {
+    "babel": "^5.6.5",
+    "chance": "^0.7.6",
+    "lodash.times": "^3.0.3",
+    "node-uuid": "^1.4.3",
+    "webpack": "^1.9.11"
+  },
+  "devDependencies": {
+    "babel-core": "^5.6.5",
+    "babel-loader": "^5.1.4",
+    "file-loader": "^0.8.4"
+  },
+  "peerDependencies": {
+    "react": "^0.13.3"
+  }
+}
