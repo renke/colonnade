@@ -1,6 +1,6 @@
 {
   "name": "colonnade",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A flexible columns component for React",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Renke Grunwald <renke@renke.org> (http://renke.org)",
-  "license": "MIT",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/renke/colonnade.git"
@@ -18,7 +18,7 @@
     "chance": "^0.7.6",
     "lodash.times": "^3.0.3",
     "node-uuid": "^1.4.3",
-    "perpetually": "0.0.2",
+    "perpetually": "",
     "webpack": "^1.9.11"
   },
   "devDependencies": {
