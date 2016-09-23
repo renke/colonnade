@@ -1,4 +1,4 @@
-**WORK IN PROGRESS**
+__ATTENTION: This repository is currently unmaintained.__
 
 colonnade
 =========
